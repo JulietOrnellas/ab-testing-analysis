@@ -20,12 +20,6 @@ The objective of this analysis is to:
 - **Statistical Testing**: Apply Chi-Square Test to assess relationships between variables.
 - **Data Visualization**: Create bar plots to visualize conditional distributions.
 
----
-
-## Key Findings
-
-- [Insert a brief summary of insights here, e.g., "Group A demonstrated a higher click-through rate than Group B."]
-- [Indicate whether the Chi-Square test found a statistically significant relationship.]
 
 ---
 
